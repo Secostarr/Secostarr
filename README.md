@@ -23,9 +23,9 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SecoStarr&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=secostarr)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SecoStarr&layout=compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=secostarr)
 
 ---
 
