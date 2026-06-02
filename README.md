@@ -62,16 +62,6 @@ Status     : Learning & Building
 
 ---
 
-# 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=secostarr&theme=radical&no-frame=true"/>
-
-</div>
-
----
-
 # 🎯 CURRENT MISSION
 
 - 🚀 Build Laravel Projects
