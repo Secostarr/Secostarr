@@ -1,172 +1,113 @@
 <div align="center">
 
-# 👋 Hey, I'm Secostarr
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=SECOSTARR&fontAlign=50&fontAlignY=40&desc=Software%20Engineering%20Student&descAlignY=60" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Software+Engineering+Student;Laravel+Developer;Web+Development+Enthusiast;Always+Learning+New+Things" />
-
-<img src="https://komarev.com/ghpvc/?username=secostarr&label=Profile+Views&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile;Laravel+Developer;Building+Web+Applications;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🧑‍💻 WHOAMI
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+```bash
+> whoami
 
-```javascript
-const secostarr = {
-    role: "Software Engineering Student",
-    learning: ["Laravel", "PHP", "JavaScript", "MySQL"],
-    interests: [
-        "Web Development",
-        "Backend Development",
-        "Software Engineering"
-    ],
-    tools: [
-        "VS Code",
-        "Git",
-        "GitHub"
-    ],
-    motto: "Keep Learning, Keep Building 🚀"
-}
+Name       : Secostarr
+Role       : Software Engineering Student
+Focus      : Laravel & Backend Development
+Location   : Indonesia
+Status     : Learning & Building
 ```
 
-### 🎯 Current Focus
-
-- 🌱 Learning Laravel Ecosystem
-- 💻 Building Web Applications
-- 🔥 Improving Backend Skills
-- 🚀 Creating Portfolio Projects
-- 📚 Exploring New Technologies
-
-<br clear="right"/>
-
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,git,github,vscode" />
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=secostarr&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secostarr&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=secostarr&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=secostarr&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=secostarr&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-## 💻 Favorite Technologies
-
-<div align="center">
-
-| Frontend | Backend | Database | Tools |
-|-----------|-----------|-----------|-----------|
-| HTML | PHP | MySQL | Git |
-| CSS | Laravel | MariaDB | GitHub |
-| JavaScript | REST API | SQLite | VS Code |
-| Bootstrap | Node.js (Learning) | - | Postman |
-
-</div>
-
----
-
-## 📚 Currently Learning
+# ⚙️ SYSTEM STATUS
 
 ```text
-████████████████████░░░░ 80% Laravel
-██████████████████░░░░░░ 75% PHP
-█████████████████░░░░░░░ 70% JavaScript
-███████████████████░░░░░ 85% HTML/CSS
+🟢 Laravel        ████████████████ 85%
+🟢 PHP            ██████████████   80%
+🟢 JavaScript     ████████████     70%
+🟢 MySQL          █████████████    75%
+🟢 HTML/CSS       ████████████████ 90%
 ```
 
 ---
 
-## 🌐 Connect With Me
+# 🛠 TECHNOLOGY ARSENAL
 
 <div align="center">
 
-<a href="https://github.com/secostarr">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,bootstrap,postman" />
+
+</div>
+
+---
+
+## 🎮 Play My Game
+
+<a href="https://secostarr.github.io/snake-game/">
+  <img src="https://img.shields.io/badge/PLAY-NOW-success?style=for-the-badge" />
 </a>
 
+---
+
+# 📈 CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=secostarr&theme=react-dark"/>
+
 </div>
 
 ---
 
-## ⚡ Fun Fact
+# 🏆 ACHIEVEMENTS
 
 <div align="center">
 
-💡 Turning coffee into code since day one.
-
-🚀 Every bug is just an undocumented feature.
+<img src="https://github-profile-trophy.vercel.app/?username=secostarr&theme=radical&no-frame=true"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 🎯 CURRENT MISSION
 
-### 🎵 Coding Mode
+- 🚀 Build Laravel Projects
+- 📚 Improve Backend Skills
+- 💡 Learn Clean Architecture
+- 🔥 Contribute More on GitHub
+- 🏗 Create Better Portfolio Projects
 
-```text
-while(alive){
-    eat();
-    code();
-    sleep();
+---
+
+# 💻 DAILY ROUTINE
+
+```javascript
+while (alive) {
+    learn();
+    build();
+    debug();
+    deploy();
     repeat();
 }
 ```
 
+---
+
+<div align="center">
+
+### 👁 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=secostarr&style=for-the-badge"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-### 🌟 Thanks for Visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B42F3&height=120&section=footer"/>
+## "Code. Learn. Build. Repeat."
 
 </div>
