@@ -22,18 +22,6 @@ Status     : Learning & Building
 
 ---
 
-# ⚙️ SYSTEM STATUS
-
-```text
-🟢 Laravel        ████████████████ 85%
-🟢 PHP            ██████████████   80%
-🟢 JavaScript     ████████████     70%
-🟢 MySQL          █████████████    75%
-🟢 HTML/CSS       ████████████████ 90%
-```
-
----
-
 # 🛠 TECHNOLOGY ARSENAL
 
 <div align="center">
@@ -49,16 +37,6 @@ Status     : Learning & Building
 <a href="https://secostarr.github.io/snake-game/">
   <img src="https://img.shields.io/badge/PLAY-NOW-success?style=for-the-badge" />
 </a>
-
----
-
-# 📈 CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=secostarr&theme=react-dark"/>
-
-</div>
 
 ---
 
