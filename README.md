@@ -62,6 +62,18 @@ Status     : Learning & Building
 
 ---
 
+# 🏆 LIVE CHARACTER STATUS
+
+```text
+Loading player data...
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=secostarr&show_icons=true&theme=chartreuse-dark" />
+
+<img src="https://streak-stats.demolab.com?user=secostarr&theme=chartreuse-dark" />
+
+---
+
 # 🎯 CURRENT MISSION
 
 - 🚀 Build Laravel Projects
