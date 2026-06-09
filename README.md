@@ -56,7 +56,6 @@ I am a Software Engineering student with a strong interest in backend developmen
 ### Carbridge
 A web-based marketplace platform developed with Laravel that connects buyers and sellers through an intuitive interface. Features include user authentication, product listing management, image uploads, category filtering, and direct user interaction to support seamless transactions.
 
-**Tech Stack:**
 <img src="https://skillicons.dev/icons?i=laravel,php,mysql,bootstrap,javascript" />
 
 ---
@@ -64,7 +63,6 @@ A web-based marketplace platform developed with Laravel that connects buyers and
 ### KilatNews
 A modern news portal application designed to deliver information quickly and efficiently. The platform provides categorized news articles, content management capabilities, responsive layouts, and an optimized reading experience for users.
 
-**Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL
 <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql" />
 
 ---
@@ -72,7 +70,6 @@ A modern news portal application designed to deliver information quickly and eff
 ### SiAbsensi
 A web-based attendance management system developed to streamline attendance tracking and reporting. The application supports user management, attendance recording, dashboard analytics, and report generation to improve administrative efficiency.
 
-**Tech Stack:** Laravel • PHP • MySQL • JavaScript • Bootstrap
 <img src="https://skillicons.dev/icons?i=laravel,php,mysql,javascript,bootstrap" />
 
 ---
@@ -80,7 +77,6 @@ A web-based attendance management system developed to streamline attendance trac
 ### IOT-Sensor-Makanan-Basi
 An Internet of Things (IoT) project designed to detect food spoilage using environmental sensors. The system collects sensor data, processes measurements, and provides monitoring capabilities to help identify food freshness in real time.
 
-**Tech Stack:** Arduino • ESP32 • C++ • IoT Sensors • MQTT
 <img src="https://skillicons.dev/icons?i=c" />
 
 ---
