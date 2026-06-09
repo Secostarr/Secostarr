@@ -56,7 +56,7 @@ I am a Software Engineering student with a strong interest in backend developmen
 ### Carbridge
 A web-based marketplace platform developed with Laravel that connects buyers and sellers through an intuitive interface. Features include user authentication, product listing management, image uploads, category filtering, and direct user interaction to support seamless transactions.
 
-**Tech Stack:** Laravel • PHP • MySQL • Bootstrap • JavaScript
+**Tech Stack:**
 <img src="https://skillicons.dev/icons?i=laravel,php,mysql,bootstrap,javascript" />
 
 ---
